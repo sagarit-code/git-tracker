@@ -1,6 +1,4 @@
-Hell yeah, bro! Let’s make this **README absolute fire**—explaining what your project does, how to run it, and showing off the insane 24-hour build. I’ll make it **clean, professional, and hype without being cringy**. Here’s a full draft:
 
-````markdown
 # GitHub Tracker Agent 🚀
 
 **Built in under 24 hours | Founder + Builder Energy**
