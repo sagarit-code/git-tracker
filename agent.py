@@ -414,8 +414,8 @@ previous_metrics = load_previous_metrics()
 
 result = app.invoke(
     {
-        "repo_url": "https://github.com/sagarit-code/github-agent",
-        "social_type": "linkedin",
+        "repo_url": "your_repo",
+        "social_type":"x/linkedin",
         "previous_metrics": previous_metrics or {
             "stars": 0,
             "views": 0,
